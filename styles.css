@@ -1,0 +1,14 @@
+ h1 {
+            color:blue;
+            font-weight: 300;
+
+        }
+
+        button {
+            color: blue;
+            background-color: aquamarine;
+        }
+        p {
+            color: aquamarine;
+            font-weight: bold;
+        }
