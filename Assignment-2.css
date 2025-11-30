@@ -2,7 +2,7 @@ body {
     background-color: antiquewhite;
 }
 #form {
-    background-color: grey;
+    background-color: gray;
     
 }
 .nr {
@@ -13,7 +13,7 @@ body {
 }
 
 .cn {
-    color:#C19A6B;
+    color:#3A2910;
 }
 .em {
     color: deepskyblue;
@@ -24,12 +24,6 @@ p {
     width: 1000px;
     height: auto;
     box-shadow: 15px;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-}
-
-#submit {
     display: flex;
     text-align: center;
     justify-content: center;
