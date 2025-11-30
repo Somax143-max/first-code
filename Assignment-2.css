@@ -21,9 +21,6 @@ body {
 p {
     background-color: lightblue;
     color: red;
-    width: 1000px;
-    height: auto;
-    box-shadow: 15px;
     display: flex;
     text-align: center;
     justify-content: center;
